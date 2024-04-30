@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sHl5q/knqVo283hAp+ops8w09Ae/NxyG0lZOY/dN4kC6lj5bnPzAFXOq5GeL0quxpBXpWHQ2pkPhZrHPMqlQSw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\LoginAndRegister\\LoginAndRegister.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Behruz\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Behruz\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

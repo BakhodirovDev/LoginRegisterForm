@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\LoginAndRegister\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85E9782B-8B17-4D75-A814-B88BCA2DF22D}|LoginAndRegister.csproj|C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\LoginAndRegister\\database\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{85E9782B-8B17-4D75-A814-B88BCA2DF22D}|LoginAndRegister.csproj|solutionrelative:database\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E9782B-8B17-4D75-A814-B88BCA2DF22D}|LoginAndRegister.csproj|C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\LoginAndRegister\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85E9782B-8B17-4D75-A814-B88BCA2DF22D}|LoginAndRegister.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E9782B-8B17-4D75-A814-B88BCA2DF22D}|LoginAndRegister.csproj|C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\LoginAndRegister\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{85E9782B-8B17-4D75-A814-B88BCA2DF22D}|LoginAndRegister.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E9782B-8B17-4D75-A814-B88BCA2DF22D}|LoginAndRegister.csproj|c:\\users\\behruz\\onedrive\\desktop\\shop\\loginandregister\\forms\\superadminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{85E9782B-8B17-4D75-A814-B88BCA2DF22D}|LoginAndRegister.csproj|solutionrelative:forms\\superadminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E9782B-8B17-4D75-A814-B88BCA2DF22D}|LoginAndRegister.csproj|C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\LoginAndRegister\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{85E9782B-8B17-4D75-A814-B88BCA2DF22D}|LoginAndRegister.csproj|solutionrelative:register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E9782B-8B17-4D75-A814-B88BCA2DF22D}|LoginAndRegister.csproj|C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\LoginAndRegister\\forms\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{85E9782B-8B17-4D75-A814-B88BCA2DF22D}|LoginAndRegister.csproj|solutionrelative:forms\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E9782B-8B17-4D75-A814-B88BCA2DF22D}|LoginAndRegister.csproj|C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\LoginAndRegister\\forms\\superadminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85E9782B-8B17-4D75-A814-B88BCA2DF22D}|LoginAndRegister.csproj|solutionrelative:forms\\superadminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E9782B-8B17-4D75-A814-B88BCA2DF22D}|LoginAndRegister.csproj|C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\LoginAndRegister\\forms\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85E9782B-8B17-4D75-A814-B88BCA2DF22D}|LoginAndRegister.csproj|solutionrelative:forms\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E9782B-8B17-4D75-A814-B88BCA2DF22D}|LoginAndRegister.csproj|C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\LoginAndRegister\\forms\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{85E9782B-8B17-4D75-A814-B88BCA2DF22D}|LoginAndRegister.csproj|solutionrelative:forms\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\LoginAndRegister\\Register.cs",
+              "RelativeDocumentMoniker": "Register.cs",
+              "ToolTip": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\LoginAndRegister\\Register.cs [Design]",
+              "RelativeToolTip": "Register.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T11:05:47.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminForm.cs",
+              "DocumentMoniker": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\LoginAndRegister\\Forms\\AdminForm.cs",
+              "RelativeDocumentMoniker": "Forms\\AdminForm.cs",
+              "ToolTip": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\LoginAndRegister\\Forms\\AdminForm.cs",
+              "RelativeToolTip": "Forms\\AdminForm.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAACAAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T10:07:15.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\LoginAndRegister\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\LoginAndRegister\\Login.cs",
+              "RelativeToolTip": "Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T10:03:42.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\LoginAndRegister\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\LoginAndRegister\\Login.cs [Design]",
+              "RelativeToolTip": "Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T10:03:40.186Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SuperAdminForm.cs",
+              "DocumentMoniker": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\LoginAndRegister\\Forms\\SuperAdminForm.cs",
+              "RelativeDocumentMoniker": "Forms\\SuperAdminForm.cs",
+              "ToolTip": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\LoginAndRegister\\Forms\\SuperAdminForm.cs",
+              "RelativeToolTip": "Forms\\SuperAdminForm.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAASwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T10:01:58.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SuperAdminForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\LoginAndRegister\\Forms\\SuperAdminForm.cs",
+              "RelativeDocumentMoniker": "Forms\\SuperAdminForm.cs",
+              "ToolTip": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\LoginAndRegister\\Forms\\SuperAdminForm.cs [Design]",
+              "RelativeToolTip": "Forms\\SuperAdminForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T10:00:48.18Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Users.json",
+              "DocumentMoniker": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\LoginAndRegister\\DataBase\\Users.json",
+              "RelativeDocumentMoniker": "DataBase\\Users.json",
+              "ToolTip": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\LoginAndRegister\\DataBase\\Users.json",
+              "RelativeToolTip": "DataBase\\Users.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-30T10:19:11.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\LoginAndRegister\\Forms\\UserForm.cs",
+              "RelativeDocumentMoniker": "Forms\\UserForm.cs",
+              "ToolTip": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\LoginAndRegister\\Forms\\UserForm.cs [Design]",
+              "RelativeToolTip": "Forms\\UserForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T11:03:56.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\LoginAndRegister\\Forms\\AdminForm.cs",
+              "RelativeDocumentMoniker": "Forms\\AdminForm.cs",
+              "ToolTip": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\LoginAndRegister\\Forms\\AdminForm.cs [Design]",
+              "RelativeToolTip": "Forms\\AdminForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T10:07:36.243Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

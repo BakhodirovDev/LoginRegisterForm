@@ -1,0 +1,37 @@
+[
+  {
+    "Id": 1,
+    "FullName": "Bahodirov Behruz",
+    "UserName": "bbahodirov",
+    "Password": "0216",
+    "Role": "SuperAdmin"
+  },
+  {
+    "Id": 2,
+    "FullName": "Test User",
+    "UserName": "testuser",
+    "Password": "1234",
+    "Role": "Admin"
+  },
+  {
+    "Id": 3,
+    "FullName": "esdfhd",
+    "UserName": "1111",
+    "Password": "1111",
+    "Role": "User"
+  },
+  {
+    "Id": 4,
+    "FullName": "as",
+    "UserName": "ad",
+    "Password": "zxcv",
+    "Role": "User"
+  },
+  {
+    "Id": 5,
+    "FullName": "quvonchMuqimov",
+    "UserName": "quvonch003",
+    "Password": "quvonch123",
+    "Role": "User"
+  }
+]
